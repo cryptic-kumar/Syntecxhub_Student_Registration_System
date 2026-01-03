@@ -1,12 +1,3 @@
-That is a very smart security practice! 🛡️ Excluding `DBConnection.java` prevents your database password from being exposed, and excluding `lib` keeps the repository lightweight.
-
-However, this means your `README.md` **must** explain to others how to recreate those missing files to run the project.
-
-Here is a **Professional README.md** tailored exactly for this scenario. It includes a "Setup" section that gives the template for the missing connection file.
-
-### Copy and Paste this into `README.md`
-
-````markdown
 # Student Registration System 🎓
 
 > **Syntecxhub Internship - Java Programming (Week 4 Task)**
@@ -53,7 +44,6 @@ CREATE TABLE students (
     fee DECIMAL(10, 2)
 );
 ```
-````
 
 ### Step 2: Create Connection File
 
