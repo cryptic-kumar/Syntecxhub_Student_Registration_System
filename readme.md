@@ -128,8 +128,3 @@ java -cp ".;lib/mysql-connector-j-8.2.0.jar" StudentRegistration
 ---
 
 _This project was developed as part of the Syntecxhub Internship Program._
-
-```
-
-
-```
